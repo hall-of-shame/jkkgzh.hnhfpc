@@ -98,6 +98,7 @@ function storagePlace() {
 }
 
 function cleanStorage() {
+  localStorage.removeItem('__hc__version');
   localStorage.removeItem('__hc__title');
   localStorage.removeItem('__hc__encrypted');
   localStorage.removeItem('__hc__template');

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="144" viewBox="0 0 144 144">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.189" x2="0.848" y2="0.805" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcfe4e"/>
+      <stop offset="0.757" stop-color="#fcc732"/>
+      <stop offset="1" stop-color="#efc405"/>
+    </linearGradient>
+    <clipPath id="clip-shield">
+      <rect width="144" height="144"/>
+    </clipPath>
+  </defs>
+  <g id="shield" clip-path="url(#clip-shield)">
+    <path id="_24gf-shield" data-name="24gf-shield" d="M250.32,67.814,191.459,42.934a3.424,3.424,0,0,0-2.657,0L129.942,67.814A3.107,3.107,0,0,0,128,70.655v31.752c0,32.051,19.831,61.083,50.522,73.957,5.027,2.109,8.824,3.134,11.609,3.134s6.582-1.025,11.609-3.134c30.691-12.877,50.522-41.909,50.522-73.957V70.655a3.107,3.107,0,0,0-1.942-2.842Z" transform="translate(-118.131 -39.082)" fill="url(#linear-gradient)"/>
+    <path id="面性打针图标" d="M49.367,26.932l4.2-4.194L87.029,56.213l-4.2,4.194ZM63.694,33.06,73.243,23.3l13.12,13.12L76.814,46.18ZM28.91,76.242l5.2,5.2L11.115,104.664,6.147,99.935ZM69.194,13.875,95.932,40.613l-2.863,2.863L66.331,16.727ZM56.1,33.695l-34.88,34.89L41.211,88.571l34.88-34.89ZM40.4,72.415l-9.977-9.978,4.439-3.913L44.841,68.5Zm8.964-8.78L39.213,53.658l4.363-3.711,9.936,9.977ZM48.3,44.878l3.9-3.508,9.936,9.977-3.862,3.508L48.3,44.878Z" transform="translate(25.438 12.731)" fill="#fff"/>
+  </g>
+</svg>
